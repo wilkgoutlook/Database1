@@ -1,0 +1,7 @@
+C:\Projects\Outlook_Account\Database1\Database1\bin\Debug\DB1.dacpac
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\Model.xml
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\refactor.xml
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\postdeploy.sql
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\predeploy.sql
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\Database1.dll
+C:\Projects\Outlook_Account\Database1\Database1\obj\Debug\Database1.pdb
